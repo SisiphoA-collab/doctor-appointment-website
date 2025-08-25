@@ -9,12 +9,12 @@ const Footer = () => {
         {/* ---------- Left Section ---------- */}
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Here we write anything we wish to write about JoyFul, something nice, very nice nice nice nice nice nice nice nice nice nice nice nice until nicer nicer nicer nicer.</p>
         </div>
 
         {/* ---------- Center Section ---------- */}
         <div>
-          <p className='text-xl font-medium mb-5'>COMPANY</p>
+          <p className='text-xl font-medium mb-5'>Practice</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>Home</li>
             <li>About us</li>
@@ -25,10 +25,10 @@ const Footer = () => {
 
         {/* ---------- Right Section ---------- */}
         <div>
-          <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
+          <p className='text-xl font-medium mb-5'>WHY WAIT? GET IN TOUCH WITH US TODAY</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+1-212-456-7890</li>
-            <li>sadikahmetaydin@gmail.com</li>
+            <li>+27-79-351-1010</li>
+            <li>sisiphoandries@gmail.com</li>
           </ul>
         </div>
 
@@ -37,7 +37,7 @@ const Footer = () => {
       {/* ---------- Copyright Text ---------- */}
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright © 2024 - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright © 2025 - All Right Reserved.</p>
       </div>
 
     </div>
